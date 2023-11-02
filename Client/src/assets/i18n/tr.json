@@ -1,0 +1,21 @@
+{
+    "categories": "Kategoriler",
+    "search": "Aranacak değer girin...",
+    "homePage": "Ana Sayfa",
+    "shoppingCartPage":"Sepetim",
+    "allCategories": "Tüm Kategoriler",
+    "addingBookinShoppingCartIsSuccessful":"Kitap başarıyla sepete eklendi",
+    "noBooksInShoppingCart":"Sepette ürün bulunmuyor !",
+    "Bilim": "Bilim",
+    "remove":{
+        "doYouWantToDeleted":"Silmek istiyor musunuz?",
+        "cancelBtn":"Vazgeç",
+        "confirmBtn":"Sil"
+    },
+    "payment" :{
+        "title":"Ödeme Sayfası"
+
+    }
+    
+    
+}
